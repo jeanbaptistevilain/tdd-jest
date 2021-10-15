@@ -1,5 +1,5 @@
 ### Status
-[![Build Status](https://travis-ci.com/jeanbaptistevilain/tdd-jest.svg?branch=master)](https://travis-ci.com/jeanbaptistevilain/tdd-jest)
+[![Build Status](https://travis-ci.org/jeanbaptistevilain/tdd-jest.svg?branch=master)](https://travis-ci.org/jeanbaptistevilain/tdd-jest)
 
 ## Setup
 
